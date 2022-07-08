@@ -1,0 +1,31 @@
+/************ input**********/
+
+body {
+  background-color:khaki;
+}
+
+h1 {
+    color:blueviolet;
+    font-family:'Times New Roman', Times, serif;
+    font-size:50px;
+}
+
+/*** clas secicileri kullanıldı***/
+.x {
+    color:brown;
+    font-family:'Lora', serif;
+
+}
+.y {
+    font-family: 'Josefin Sans', sans-serif;
+    color:black;
+}
+
+/**** id secicisi kullanıldı****/
+
+#style {
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size:50px;
+}
+
+/**** output***/
